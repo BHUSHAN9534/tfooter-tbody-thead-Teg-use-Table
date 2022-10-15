@@ -4,6 +4,10 @@ body{
     
 }
 
-thead{
+/* thead{
     border: 1px solid greenyellow;
+} */
+
+th,td{
+
 }
